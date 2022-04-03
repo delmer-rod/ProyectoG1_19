@@ -1,8 +1,8 @@
-var URL_Materiales = 'http://localhost:90/G1_19/controller/ma_materiales.php?op=GetMateriales';
-var URL_PostMaterial = 'http://localhost:90/G1_19/controller/ma_materiales.php?op=InsertMaterial';
-var URL_GetMaterial = 'http://localhost:90/G1_19/controller/ma_materiales.php?op=GetMaterial';
-var URL_UpdateMaterial = 'http://localhost:90/G1_19/controller/ma_materiales.php?op=UpdateMaterial';
-var URL_DeleteMaterial = 'http://localhost:90/G1_19/controller/ma_materiales.php?op=DeleteMaterial';
+var URL_Materiales = 'http://52.152.236.67:90/G1_19/controller/ma_materiales.php?op=GetMateriales';
+var URL_PostMaterial = 'http://52.152.236.67:90/G1_19/controller/ma_materiales.php?op=InsertMaterial';
+var URL_GetMaterial = 'http://52.152.236.67:90/G1_19/controller/ma_materiales.php?op=GetMaterial';
+var URL_UpdateMaterial = 'http://52.152.236.67:90/G1_19/controller/ma_materiales.php?op=UpdateMaterial';
+var URL_DeleteMaterial = 'http://52.152.236.67:90/G1_19/controller/ma_materiales.php?op=DeleteMaterial';
 
 $(document).ready(function(){
 
